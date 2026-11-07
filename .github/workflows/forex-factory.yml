@@ -1,0 +1,52 @@
+name: Forex Factory vers Discord
+
+on:
+  schedule:
+    # Vérification toutes les 5 minutes, heure de Paris (heure d'été/hiver gérée par GitHub).
+    - cron: "*/5 * * * *"
+      timezone: "Europe/Paris"
+  workflow_dispatch:
+    inputs:
+      test_discord:
+        description: "Envoyer un message de test dans Discord"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: forex-factory-discord-bot
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      TEST_DISCORD: ${{ inputs.test_discord }}
+    steps:
+      - name: Récupérer les fichiers du bot
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Exécuter le bot
+        run: python bot.py
+
+      - name: Sauvegarder le cache et l'état anti-doublon
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calendar_cache.json bot_state.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement à sauvegarder."
+          else
+            git commit -m "chore: mise à jour calendrier et état du bot"
+            git push
+          fi
