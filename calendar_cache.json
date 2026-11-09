@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T16:49:48.993491+00:00",
+  "fetched_at": "2026-11-09T17:46:18.668138+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -401,6 +401,14 @@
       "impact": "Low",
       "forecast": "0.7%",
       "previous": "-1.3%"
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-11-11T04:45:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "German 30-y Bond Auction",
