@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T01:40:38.222762+00:00",
+  "fetched_at": "2026-11-10T03:25:54.663220+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -171,20 +171,20 @@
       "previous": "-13"
     },
     {
-      "title": "Trade Balance",
-      "country": "CNY",
-      "date": "2026-11-09T22:03:00-05:00",
-      "impact": "Low",
-      "forecast": "855B",
-      "previous": "906B"
-    },
-    {
       "title": "USD-Denominated Trade Balance",
       "country": "CNY",
-      "date": "2026-11-09T22:04:00-05:00",
+      "date": "2026-11-09T21:32:00-05:00",
       "impact": "Low",
       "forecast": "126.5B",
       "previous": "133.5B"
+    },
+    {
+      "title": "Trade Balance",
+      "country": "CNY",
+      "date": "2026-11-09T21:33:00-05:00",
+      "impact": "Low",
+      "forecast": "855B",
+      "previous": "906B"
     },
     {
       "title": "30-y Bond Auction",
