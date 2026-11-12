@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T13:59:38.907692+00:00",
+  "fetched_at": "2026-11-12T14:54:48.569931+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -581,7 +581,7 @@
     {
       "title": "Mortgage Delinquencies",
       "country": "USD",
-      "date": "2026-11-12T10:00:00-05:00",
+      "date": "2026-11-12T10:21:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "4.37%"
