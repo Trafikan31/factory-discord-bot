@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T14:06:22.527817+00:00",
+  "fetched_at": "2026-11-13T15:46:24.424299+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -793,14 +793,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "Mortgage Delinquencies",
-      "country": "USD",
-      "date": "2026-11-13T10:15:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%"
     },
     {
       "title": "Natural Gas Storage",
