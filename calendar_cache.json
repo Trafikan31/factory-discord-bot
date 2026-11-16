@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T19:56:09.742583+00:00",
+  "fetched_at": "2026-11-16T21:35:49.117633+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -207,6 +207,22 @@
       "country": "AUD",
       "date": "2026-11-16T17:50:00-05:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-11-16T18:10:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-11-16T18:30:00-05:00",
+      "impact": "Low",
       "forecast": "",
       "previous": ""
     },
@@ -766,6 +782,14 @@
       "title": "FOMC Member Hammack Speaks",
       "country": "USD",
       "date": "2026-11-19T08:50:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Jefferson Speaks",
+      "country": "USD",
+      "date": "2026-11-19T09:25:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
