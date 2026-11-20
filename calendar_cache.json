@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T12:46:14.610168+00:00",
+  "fetched_at": "2026-11-20T14:02:03.897603+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -993,6 +993,14 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-11-20T12:00:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Cook Speaks",
