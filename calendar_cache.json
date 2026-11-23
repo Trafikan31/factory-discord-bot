@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T17:42:13.866460+00:00",
+  "fetched_at": "2026-11-23T18:39:51.163355+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -355,14 +355,6 @@
       "previous": "2.3%"
     },
     {
-      "title": "Unemployment Claims",
-      "country": "USD",
-      "date": "2026-11-25T08:30:00-05:00",
-      "impact": "Medium",
-      "forecast": "201K",
-      "previous": "203K"
-    },
-    {
       "title": "Core Durable Goods Orders m/m",
       "country": "USD",
       "date": "2026-11-25T08:30:00-05:00",
@@ -393,6 +385,14 @@
       "impact": "Low",
       "forecast": "0.4%",
       "previous": "0.5%"
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-11-25T08:30:00-05:00",
+      "impact": "Low",
+      "forecast": "201K",
+      "previous": "203K"
     },
     {
       "title": "New Home Sales",
