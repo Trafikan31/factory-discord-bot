@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T14:36:30.724754+00:00",
+  "fetched_at": "2026-11-23T15:43:51.047787+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -155,14 +155,6 @@
       "previous": "53.3"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-11-24T02:02:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%"
-    },
-    {
       "title": "German ifo Business Climate",
       "country": "EUR",
       "date": "2026-11-24T04:00:00-05:00",
@@ -313,6 +305,14 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.2%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-11-25T02:02:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%"
     },
     {
       "title": "UBS Economic Expectations",
