@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T13:17:57.252757+00:00",
+  "fetched_at": "2026-11-23T14:36:30.724754+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -117,7 +117,7 @@
     {
       "title": "Corporate Profits q/q",
       "country": "CAD",
-      "date": "2026-11-23T08:30:00-05:00",
+      "date": "2026-11-23T08:32:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "8.7%"
