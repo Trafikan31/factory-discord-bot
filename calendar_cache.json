@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T14:13:03.551691+00:00",
+  "fetched_at": "2026-11-25T15:25:34.875503+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -393,6 +393,14 @@
       "impact": "Low",
       "forecast": "201K",
       "previous": "203K"
+    },
+    {
+      "title": "Monetary Policy Report Hearings",
+      "country": "GBP",
+      "date": "2026-11-25T09:15:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "New Home Sales",
