@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T09:49:59.810256+00:00",
+  "fetched_at": "2026-11-25T10:47:26.621746+00:00",
   "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "events": [
     {
@@ -317,7 +317,7 @@
     {
       "title": "German 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-11-25T05:42:00-05:00",
+      "date": "2026-11-25T05:32:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.37|1.1"
